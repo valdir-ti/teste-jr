@@ -19,8 +19,9 @@ Desenvolver uma interface de api onde seja possível fazer uma inserção de ven
 - Comissão
 
 
-- Não é necessário fazer CRUD de vendedores
-- Não é necessário login/autenticação.
+> Não é necessário fazer CRUD de vendedores, pode inserir os dados diretamente no banco de dados
+
+> Não é necessário nenhuma forma de login/autenticação
 
 ### Forma de de entrega:
 
