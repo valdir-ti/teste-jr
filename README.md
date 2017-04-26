@@ -13,10 +13,10 @@
 
 Desenvolver uma interface de api onde seja possível fazer uma inserção de venda de um vendedor, onde o retorno dessa inserção  será o calculo da comissão da venda (que será de 8.5% em cima do valor da venda) e os dados básicos do vendedor.
 
-#### Dados de retorno
+#### Dados de retorno da API
 - Nome
 - Email
-- Comissão
+- Valor de comissão
 
 
 > Não é necessário fazer CRUD de vendedores, pode inserir os dados diretamente no banco de dados
