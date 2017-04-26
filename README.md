@@ -1,6 +1,6 @@
 # Teste DEV JR
 
-> Não terminar o teste não é excludente, é uma forma de analisar como você pesquisa, > programa e resolve problemas de programação, uma parte dele já conseguimos ter uma > ideia de como você programa, mas seria legal vê-lo pronto.
+> Não terminar o teste não é excludente, é uma forma de analisar como você pesquisa, programa e resolve problemas de programação, uma parte dele já conseguimos ter uma ideia de como você programa, mas seria legal vê-lo pronto.
 
 Requisitos:
 - PHP
