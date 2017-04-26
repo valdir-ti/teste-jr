@@ -13,7 +13,7 @@ Requisitos:
 
 Desenvolver uma interface de api onde seja possível fazer uma inserção de venda de um vendedor, onde o retorno dessa inserção  é o calculo da comissão da venda (que é de 8.5%) e os dados do básicos vendedor.
 
-- Não é necessário fazer interface de cadastro de vendedores.
+- Não é necessário fazer interface de cadastro de vendedores, mas precisamos dos dados deles de alguma forma
 - Não é necessário login/tokens.
 
 # Forma de de entrega:
