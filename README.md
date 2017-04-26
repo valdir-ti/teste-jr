@@ -1,4 +1,4 @@
-# Convênia - Teste prático - DEV JR
+# Convênia - Teste prático - DEV PHP JR
 
 > Não se preocupe caso não consiga finalizar o teste, é uma forma de analisar como você pesquisa, programa e resolve os desafios de programação, mas seria legal vê-lo pronto.
 
