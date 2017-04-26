@@ -11,7 +11,13 @@
 
 ### Descrição do teste:
 
-Desenvolver uma interface de api onde seja possível fazer uma inserção de venda de um vendedor, onde o retorno dessa inserção  é o calculo da comissão da venda (que será de 8.5% em cima do valor da venda) e os dados básicos do vendedor.
+Desenvolver uma interface de api onde seja possível fazer uma inserção de venda de um vendedor, onde o retorno dessa inserção  será o calculo da comissão da venda (que será de 8.5% em cima do valor da venda) e os dados básicos do vendedor.
+
+#### Dados de retorno
+- Nome
+- Email
+- Comissão
+
 
 - Não é necessário fazer CRUD de vendedores
 - Não é necessário login/autenticação.
