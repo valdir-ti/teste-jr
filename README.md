@@ -1,6 +1,7 @@
 # Convênia - Teste prático - DEV PHP JR
 
-> Não se preocupe caso não consiga finalizar o teste, é uma forma de analisar como você pesquisa, programa e resolve os desafios de programação, mas seria legal vê-lo pronto.
+> Não se preocupe caso não consiga finalizar o teste, é uma forma de analisar como você pesquisa, 
+programa e resolve os desafios de programação, mas seria legal vê-lo pronto.
 
 ### Requisitos:
 - PHP
@@ -11,13 +12,15 @@
 
 ### Descrição do teste:
 
-Desenvolver uma api onde seja possível fazer uma inserção de venda de um vendedor, onde o retorno dessa inserção será o cálculo da comissão da venda (que será de 8.5% sobre o valor da venda) e os dados básicos do vendedor.
+Desenvolver uma api onde seja possível fazer uma inserção de venda de um vendedor, 
+onde o retorno dessa inserção será o cálculo da comissão da venda 
+(que será de 8.5% sobre o valor da venda) 
+e os dados básicos do vendedor.
 
 #### Dados de retorno da API
 - Nome
 - Email
 - Valor de comissão
-
 
 > Não é necessário fazer CRUD de vendedores, pode inserir os dados diretamente no banco de dados
 
@@ -26,5 +29,3 @@ Desenvolver uma api onde seja possível fazer uma inserção de venda de um vend
 ### Forma de de entrega:
 
 Crie um fork deste repositório e após finalizado nos envie por email
-
-

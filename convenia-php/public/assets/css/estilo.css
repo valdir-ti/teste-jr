@@ -1,0 +1,52 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Droid Sans', sans-serif;
+    background-color: #ececec;
+}
+
+.titulo {
+    margin-top: 100px;
+    margin-bottom: 30px;
+    font-size: 5rem;
+    text-align: center;
+    position: relative;
+}
+
+.dados {
+    padding: 10px;
+    font-size: 2rem;
+    color: #fff;
+    position: relative;
+    float: left;
+    width: 100%;
+}
+
+.dados h2 {
+    float: left;
+    color: black;
+    width: 100%;
+    font-size: 2.6rem;
+}
+
+.bread {
+    float: left;
+    position: absolute;
+    margin-top: 35px;
+    width: 100%;
+    font-weight: 500;
+    font-size: 1.6rem;
+}
+
+.alertas {
+    color: #fd0000;
+    background-color: #ececec;
+    border-color: #ececec;
+}
+
+.form {
+    margin: 0px 0px 20px 0px;
+    padding: 15px;
+    position: relative;
+    float: left;
+}
